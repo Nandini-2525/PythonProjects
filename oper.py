@@ -17,4 +17,4 @@ elif opr=='/':
 elif opr=='%':
     print(a%b)
 else:
-    print("enter a valid operator")
+    print("Please enter a valid character")
