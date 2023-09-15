@@ -1,8 +1,8 @@
 #show calculations except 45*3=55, 56+9=77, 56/6=4
 
-a= int(input("Enter first number"))
-opr = input("Enter any operator")
-b= int(input("Enter second number"))
+a= int(input("Enter first number: "))
+opr = input("Enter any operator: ")
+b= int(input("Enter second number: "))
 
 
 if a==45 and opr=='*' and b==3:
